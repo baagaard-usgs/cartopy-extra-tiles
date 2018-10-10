@@ -49,7 +49,7 @@ class CachedTiler(object):
         """
         attr = getattr(self.tiler, name, None)
         if isinstance(attr, types.MethodType):
-            attr = types.MethodType(attr.im_func, self)
+            attr = types.MethodType(attr.__func__, self)
         return attr
 
     def get_image(self, tile):
