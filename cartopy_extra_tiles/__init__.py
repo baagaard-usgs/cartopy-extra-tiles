@@ -10,6 +10,7 @@ __all__ = [
     "cached_tiler",
     "esri_tiles",
     "stamen_tiles",
+    "scale_bar",
 ]
 
 
