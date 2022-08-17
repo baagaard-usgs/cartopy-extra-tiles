@@ -14,9 +14,8 @@ Cached tiler and additional tile sources.
 
 ## Release Notes
 
-See [CHANGES](CHANGES.md) for a complete list of changes for each
-release.
+See [CHANGES](CHANGES.md) for a complete list of changes for each release.
 
 ## Authors
 
-* Brad Aagard, Earthquake Science Center, USGS, USA
+* Brad Aagard, Geologic Hazards Science Center, USGS, USA

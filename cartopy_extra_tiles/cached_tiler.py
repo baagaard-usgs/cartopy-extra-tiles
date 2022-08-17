@@ -71,6 +71,8 @@ class CachedTiler(object):
             fname_extension = ".jpg"
         elif url.endswith("s=G"):
             fname_extension = ".png"
+        elif "nationalmap.gov" in url:
+            fname_extension = ".png"
         else:
             msg = "Could not detect filename extension from url '{}'.".format(url)
             raise ValueError(msg)

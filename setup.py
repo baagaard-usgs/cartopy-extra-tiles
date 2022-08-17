@@ -12,7 +12,7 @@ from distutils.core import setup
 
 setup(
     name='cartopy_extra_tiles',
-    version='0.1.0',
+    version='0.2.0',
     description='Cached tiles and additional tile sets.',
     author='Brad Aagaard',
     packages=[
