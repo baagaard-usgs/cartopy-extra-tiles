@@ -5,4 +5,5 @@ cartopy_extra_tiles/__init__.py
 cartopy_extra_tiles/CachedTiler.py
 cartopy_extra_tiles/esri_tiles.py
 cartopy_extra_tiles/stamen_tiles.py
+cartopy_extra_tiles/usgs_tiles.py
 cartopy_extra_tiles/scale_bar.py
