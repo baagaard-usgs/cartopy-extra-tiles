@@ -1,0 +1,45 @@
+[
+  {
+    "name": "cartopy-extra-tiles",
+    "organization": "U.S. Geological Survey",
+    "description": "Provide cached tiles and additional sources for tiles not included in Cartopy.",
+    "version": "0.1.0",
+    "status": "Beta",
+
+    "permissions": {
+      "usageType": "openSource",
+      "licenses": [
+        {
+          "name": "Public Domain, CC0-1.0",
+          "URL": "https://code.usgs.gov/ghsc/gmp/cartopy-extra-tiles/-/raw/main/LICENSE.md"
+        }
+      ]
+    },
+
+    "homepageURL": "https://code.usgs.gov/ghsc/gmp/cartopy-extra-tiles",
+    "downloadURL": "https://code.usgs.gov/ghsc/gmp/cartopy-extra-tiles/-/archive/main/cartopy-extra-tiles.zip",
+    "disclaimerURL": "https://code.usgs.gov/ghsc/gmp/cartopy-extra-tiles/-/raw/main/DISCLAIMER.md",
+    "repositoryURL": "https://code.usgs.gov/ghsc/gmp/cartopy-extra-tiles.git",
+    "vcs": "git",
+
+    "laborHours": 0,
+
+    "tags": [
+      "cartopy",
+      "tiles"
+    ],
+
+    "languages": [
+      "Python",
+    ],
+
+    "contact": {
+      "name": "Brad Aagaard",
+      "email": "baagaard@usgs.gov"
+    },
+
+    "date": {
+      "metadataLastUpdated": "2022-08-23"
+    }
+  }
+]
